@@ -1,4 +1,7 @@
-# Helping Hands : Supporting your mental well-being
+![HelpingHands](https://github.com/user-attachments/assets/acc859fb-ee96-43cf-903b-c0452b38336c)
+
+# $${\color{green}Helping}$$ $${\color{green}Hands}$$: Supporting your mental well-being	
+
 **Helping Hands** is a mental well-being app. As our motto states, "__**Supporting your mental well-being**__," our app provides tools that support the user’s well-being, such as a sleep calculator and daily mental health evaluation.
 
 **<h2>Our features</h2>**
