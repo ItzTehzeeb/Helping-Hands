@@ -21,3 +21,16 @@ The app's development resumed in January of this year, and this month, we releas
 **<h2>Availability of the app</h2>**
 
 Helping Hands is currently only available as an APK file on Android; however, we plan to expand it to other platforms. You may find the APK file in this repository.
+
+**<h3>Latest version: <a href="https://github.com/ItzTehzeeb/Helping-Hands/tree/main/v1.0.0">1.0.0</a></h3>**
+
+Helping Hands is currently only available as an APK file on Android; however, we plan to expand it to other platforms. You may find the APK file in this repository.
+
+**<h2>Made by</h2>**
+
+Tehzeeb Kabir (Lead App Developer of version 1.0.0., prototype and UI/UX designer)
+
+Faham Mahmud (Lead App Developer of early versions, co-app developer of version 1.0.0.)
+
+<h4><center>© 2026 Tehzeeb Kabir.</center></h4>
+
